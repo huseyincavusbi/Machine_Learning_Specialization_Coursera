@@ -24,16 +24,15 @@ Welcome to the repository containing my assignments for the [Machine Learning Sp
 ## Technologies Used
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="100">
-<img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="100">
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="100">
-<img src="https://numpy.org/images/logo.svg" alt="NumPy" width="100">
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="100">
-<img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="100">
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100">
-
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="80">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" height="80">
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" height="80">
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" height="80">
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="80">
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" height="80">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="80">
 </div>
+
 
 ## License
 
